@@ -1,3 +1,4 @@
 # hello-world
 first repository
-self learning. trying to learn coding.
+self learning. 
+trying to learn code.
